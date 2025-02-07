@@ -1,0 +1,1 @@
+This repository contains a Java program demonstrating an off-by-one error in array iteration. The program attempts to access an array element beyond its bounds, leading to an ArrayIndexOutOfBoundsException. The solution demonstrates the correct way to iterate through an array using a less-than comparison operator.
